@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class boj1427 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] counting = new int[10];
